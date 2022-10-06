@@ -1,6 +1,8 @@
+
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "jear2412.github.io"
   navbar:
