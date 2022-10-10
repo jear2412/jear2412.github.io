@@ -10,10 +10,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right: 
+      - icon: "github"
+        href: https://github.com/jear2412
+      - icon: "twitter"
+        href: https://twitter.com/jear2412
+  open-graph: true
+
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
     toc: true
 

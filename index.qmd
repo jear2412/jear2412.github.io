@@ -1,13 +1,11 @@
 ---
-title: "jear2412.github.io"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+This is my website. I will finish it sooner than later.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I was raised in Honduras and at the moment I am living in Germany.
 
 ```{r}
-1 + 1
-```
 
-...
+```
