@@ -24,10 +24,12 @@ website:
 
 
 format:
-  html:
+   html:
+    fontsize: 1.1em
     theme: simplex
     css: styles.css
     toc: true
 
 editor: visual
+
 
