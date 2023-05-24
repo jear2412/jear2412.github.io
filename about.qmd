@@ -1,5 +1,3 @@
 ---
 title: "About me"
 ---
-
--   Cluster of Excellence SimTech, University of Stuttgart, Germany
