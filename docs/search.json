@@ -4,13 +4,27 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "I was raised in Honduras and at the moment I am living in Germany."
+    "text": "Hello. Welcome to my personal website.\nI was raised in Honduras and at the moment I am living in Germany. As of 05.2023 I am a doctoral researcher at the Cluster of Excellence, SimTech. Soon I will be joining TU Dortmund and I will be working with Dr. Paul Bürkner in computational statistics. In general, I am interested in Bayesian Inference, Prior specification, Probabilistic Programming and High Dimensional Statistics.\nI will be presenting in Nordstat 2023 on the 19th of June, 2023."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About me",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Hello"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About me",
+    "section": "",
+    "text": "Cluster of Excellence SimTech, University of Stuttgart, Germany"
+  },
+  {
+    "objectID": "Presentations.html",
+    "href": "Presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Upcoming:\nPast:"
   }
 ]

@@ -2,9 +2,11 @@
 title: "Welcome"
 ---
 
-This is my website. I will finish it sooner than later.
+Hello. Welcome to my personal website.
 
-I was raised in Honduras and at the moment I am living in Germany.
+I was raised in Honduras and at the moment I am living in Germany. As of 05.2023 I am a doctoral researcher at the Cluster of Excellence, SimTech. Soon I will be joining TU Dortmund and I will be working with Dr. Paul Bürkner in computational statistics. In general, I am interested in Bayesian Inference, Prior specification, Probabilistic Programming and High Dimensional Statistics.
+
+I will be presenting in Nordstat 2023 on the 19th of June, 2023.
 
 ```{r}
 

@@ -4,12 +4,13 @@ project:
   output-dir: docs
   
 website:
-  title: "jear2412"
+  title: "Javier Enrique Aguilar"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - About.qmd
+      - Presentations.qmd
     right: 
       - icon: "github"
         href: https://github.com/jear2412
