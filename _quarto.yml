@@ -9,8 +9,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Presentations.qmd
-      - About.qmd
       - text: Presentations
         href: Presentations.qmd
       - text: About
