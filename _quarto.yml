@@ -9,8 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - About.qmd
       - Presentations.qmd
+      - About.qmd
+      - text: Presentations
+        href: Presentations.qmd
+      - text: About
+        href: About.qmd
     right: 
       - icon: "github"
         href: https://github.com/jear2412
