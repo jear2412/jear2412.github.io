@@ -16,6 +16,8 @@ website:
       - text: About
         href: About.qmd
     right: 
+      - icon: envelope
+        href: "mailto:javier.aguilar@cimat.mx"
       - icon: "github"
         href: https://github.com/jear2412
       - icon: "twitter"
