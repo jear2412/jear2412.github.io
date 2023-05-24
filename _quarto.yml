@@ -11,8 +11,6 @@ website:
         text: Home
       - text: Presentations
         href: Presentations.qmd
-      - text: About me
-        href: About.qmd
     right: 
       - icon: envelope
         href: "mailto:javier.aguilar@cimat.mx"
