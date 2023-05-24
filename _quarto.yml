@@ -11,7 +11,7 @@ website:
         text: Home
       - text: Presentations
         href: Presentations.qmd
-      - text: About
+      - text: About me
         href: About.qmd
     right: 
       - icon: envelope
