@@ -10,8 +10,6 @@ page-layout: full
 
 -   BayesComp 2023. Poster.
 
--   German Probability Days and Statistics. Contributed session.
-
 -   ICSDS 2022, Florence, Italy 2022. Student travel award given by the IMS.
 
--   SimTech Status Seminar, Bad Boll, Germany 2022
+-   
