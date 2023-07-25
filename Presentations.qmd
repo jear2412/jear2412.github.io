@@ -6,10 +6,10 @@ page-layout: full
 
 The list is not complete but I have presented at the following events
 
--   NordStat 2023. Gothenburg, Sweden. Contributed Talk.
+-   NordStat 2023. Gothenburg, Sweden. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 
--   BayesComp 2023. Levi, Finland. Poster.
+-   BayesComp 2023. Levi, Finland. Poster: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 
--   German Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk.
+-   German Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 
--   International Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk. Student travel award given by the IMS.
+-   International Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*. Student travel award given by the IMS.
