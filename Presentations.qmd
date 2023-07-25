@@ -10,6 +10,6 @@ The list is not complete but I have presented at the following events
 
 -   BayesComp 2023. Levi, Finland. Poster.
 
--   German Probability and Statistics Days. Essen, Germany. Contributed Talk.
+-   German Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk.
 
--   ICSDS 2022, Florence, Italy 2022. Student travel award given by the IMS.
+-   International Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk. Student travel award given by the IMS.
