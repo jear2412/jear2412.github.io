@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hello. Welcome to my personal website.\nI was raised in Honduras and at the moment I am living in Germany. As of 05.2023 I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart. Soon I will be joining TU Dortmund and I will be working with Dr. Paul Bürkner in Computational Statistics. In general, I am interested in Bayesian Inference, Prior specification, Probabilistic Programming and High Dimensional Statistics.\nDo not hesitate in contacting me if you ever want to work together or if you have doubts or comments about my work."
+    "text": "Hello. Welcome to my personal website.\nI was raised in Honduras and at the moment I am living in Germany. As of 07.2023 I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart. Soon I will be joining TU Dortmund and I will be working with Dr. Paul Bürkner in Computational Statistics. In general, I am interested in Bayesian Inference, Prior specification, Probabilistic Programming and High Dimensional Statistics.\nDo not hesitate in contacting me if you ever want to work together or if you have doubts or comments about my work."
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "Presentations.html",
     "title": "Presentations",
     "section": "",
-    "text": "Upcoming: I will be presenting in Nordstat 2023 on the 19th of June, 2023.\nPast: The list is not complete but I am happy to have presented at the following events\n\nBayesComp 2023. Poster.\nICSDS 2022, Florence, Italy 2022. Student travel award given by the IMS."
+    "text": "The list is not complete but I have presented at the following events\n\nNordStat 2023. Gothenburg, Sweden. Contributed Talk.\nBayesComp 2023. Levi, Finland. Poster.\nGerman Probability and Statistics Days. Essen, Germany. Contributed Talk.\nICSDS 2022, Florence, Italy 2022. Student travel award given by the IMS."
   }
 ]

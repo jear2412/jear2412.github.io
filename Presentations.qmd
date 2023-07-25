@@ -4,12 +4,12 @@ toc-location: right
 page-layout: full
 ---
 
-**Upcoming:** I will be presenting in Nordstat 2023 on the 19th of June, 2023.
+The list is not complete but I have presented at the following events
 
-**Past:** The list is not complete but I am happy to have presented at the following events
+-   NordStat 2023. Gothenburg, Sweden. Contributed Talk.
 
--   BayesComp 2023. Poster.
+-   BayesComp 2023. Levi, Finland. Poster.
+
+-   German Probability and Statistics Days. Essen, Germany. Contributed Talk.
 
 -   ICSDS 2022, Florence, Italy 2022. Student travel award given by the IMS.
-
--   
