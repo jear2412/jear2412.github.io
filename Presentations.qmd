@@ -12,4 +12,4 @@ The list is not complete but I have presented at the following events
 
 -   German Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 
--   International Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*. Student travel award given by the IMS.
+-   International Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*. [Student travel award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/) given by the IMS.
