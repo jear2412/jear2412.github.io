@@ -4,7 +4,7 @@ toc-location: right
 page-layout: full
 ---
 
-The list is not complete but I have presented at the following events
+I have presented at the following events:
 
 -   NordStat 2023. Gothenburg, Sweden. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 

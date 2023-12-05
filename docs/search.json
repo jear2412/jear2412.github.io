@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hello. Welcome to my personal website.\nI was raised in Honduras and at the moment I am living in Germany. As of 07.2023 I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart, Germany. My supervisor is Prof. Dr. Paul Bürkner. Before, I studied a Master’s degree in Probability and Statistics at the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, under the supervision of Dr. Andrés Christen.\nIn general, I am interested in Bayesian Inference, Prior specification, Probabilistic Programming and High Dimensional Statistics.\nDo not hesitate in contacting me if you ever want to work together or if you have doubts or comments about my work."
+    "text": "Hello. Welcome to my personal website!\nI was raised in Honduras and at the moment I am living in Germany. I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart, Germany and a research assistant at TU Dortmund. My supervisor is Prof. Dr. Paul Bürkner. Before, I studied a Master’s degree in Probability and Statistics at the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, under the supervision of Dr. Andrés Christen.\nI am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.\nBe sure to contact me if you ever want to work together or if you have doubts or comments about my work."
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,6 @@
     "href": "Presentations.html",
     "title": "Presentations",
     "section": "",
-    "text": "The list is not complete but I have presented at the following events\n\nNordStat 2023. Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023. Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+    "text": "I have presented at the following events:\n\nNordStat 2023. Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023. Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
   }
 ]

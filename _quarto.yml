@@ -13,18 +13,17 @@ website:
         href: Presentations.qmd
     right: 
       - icon: envelope
-        href: "mailto:javier.aguilar@cimat.mx"
+        href: "mailto:javier.aguilarr@cimat.mx"
       - icon: "github"
         href: https://github.com/jear2412
-      - icon: "twitter"
-        href: https://twitter.com/jear2412
   open-graph: true
+  
 
 
 format:
    html:
-    fontsize: 1.1em
-    theme: simplex
+    mainfont: arial
+    theme: sandstone
     css: styles.css
     toc: true
 
