@@ -19,7 +19,6 @@ website:
   open-graph: true
   
 
-
 format:
    html:
     mainfont: arial
