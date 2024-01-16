@@ -1,0 +1,15 @@
+---
+title: Scientific Publications
+excerpt: "A list of my scientific publications"
+toc-location: right
+---
+
+## In Review
+
+-  Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (in review). [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
+
+## Accepted
+
+## 2023
+
+- **Aguilar J. E.** & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136

@@ -2,27 +2,46 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "talks/pdf/**"
   
 website:
   title: "Javier Enrique Aguilar"
+  #image: images/javier-aguilar-small.png
+  search: 
+    location: navbar
+    type: textbox
   navbar:
+    background: primary
+    pinned: true
     left:
       - href: index.qmd
         text: Home
-      - text: Presentations
-        href: Presentations.qmd
+      - text: Talks
+        href: talks/talks.qmd
+      - text: Publications
+        href: publications/publications.qmd
     right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:javier.aguilarr@icloud.com"
       - icon: github
-        href: https://github.com/
+        href: https://github.com/jear2412
         aria-label: GitHub
+    page-footer: 
+      left: "Copyright 2024, Javier Aguilar" 
   open-graph: true
   
 
 format:
    html:
+    fontsize: 1.1em
     mainfont: arial
+    theme: 
+      light: cosmo
+      dark: darkly
     css: styles.css
-    toc: true
+    #toc: true
 
 editor: visual
 

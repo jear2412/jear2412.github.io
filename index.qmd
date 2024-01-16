@@ -4,8 +4,8 @@ title: "Welcome"
 
 Hello. Welcome to my personal website!
 
-I was raised in Honduras and at the moment I am living in Germany. I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart, Germany and a research assistant at TU Dortmund. My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
+I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart, Germany and a research assistant at TU Dortmund. My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
 
 I am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.
 
-Be sure to contact me if you ever want to work together or if you have doubts or comments about my work.
+Be sure to [contact me](mailto:javier.aguilarr@icloud.com) if you ever want to work together or if you have doubts or comments about my work.
