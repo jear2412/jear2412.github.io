@@ -18,16 +18,16 @@ website:
       - href: index.qmd
         text: Home
       - text: Talks
-        href: talks/talks.qmd
+        href: talks/index.qmd
       - text: Publications
         href: publications/publications.qmd
-    right:
-      - icon: envelope
-        aria-label: email
-        href: "mailto:javier.aguilarr@icloud.com"
-      - icon: github
-        href: https://github.com/jear2412
-        aria-label: GitHub
+    #right:
+      #- icon: envelope
+       # aria-label: email
+        #href: "mailto:javier.aguilarr@icloud.com"
+      #- icon: github
+       # href: https://github.com/jear2412
+        #aria-label: GitHub
     page-footer: 
       left: "Copyright 2024, Javier Aguilar" 
   open-graph: true
