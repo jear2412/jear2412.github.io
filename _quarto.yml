@@ -11,18 +11,16 @@ website:
         text: Home
       - text: Presentations
         href: Presentations.qmd
-    right: 
-      - icon: envelope
-        href: "mailto:javier.aguilarr@cimat.mx"
-      - icon: "github"
-        href: https://github.com/jear2412
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
   open-graph: true
   
 
 format:
    html:
     mainfont: arial
-    theme: sandstone
     css: styles.css
     toc: true
 
