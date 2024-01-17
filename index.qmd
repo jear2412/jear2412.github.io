@@ -12,7 +12,7 @@ aliases:
 
 Hello. Welcome to my personal website!
 
-I am a doctoral researcher at the Cluster of Excellence, SimTech in Stuttgart, Germany and a research assistant at TU Dortmund. My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
+I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart and a research assistant at [TU Dortmund](https://statistik.tu-dortmund.de). My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
 
 I am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.
 

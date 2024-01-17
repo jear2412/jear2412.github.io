@@ -25,10 +25,10 @@ website:
       - text: Teaching 
         href: teaching/index.qmd
      
-    #right:
-      #- icon: envelope
-       # aria-label: email
-        #href: "mailto:javier.aguilarr@icloud.com"
+    right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:javier.aguilarr@icloud.com"
       #- icon: github
        # href: https://github.com/jear2412
         #aria-label: GitHub
