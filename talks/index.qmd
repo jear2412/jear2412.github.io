@@ -1,6 +1,6 @@
 ---
 title: Scientific Talks and Posters
-excertp: "A list of selected talks I have given"
+excerpt: "A list of selected talks I have given"
 toc-location: right
 page-layout: full
 ---

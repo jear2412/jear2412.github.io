@@ -4,6 +4,7 @@ project:
   output-dir: docs
   resources: 
     - "talks/pdf/**"
+    #- "teaching/**"
   
 website:
   title: "Javier Enrique Aguilar"
@@ -17,10 +18,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Publications
+        href: publications/index.qmd
       - text: Talks
         href: talks/index.qmd
-      - text: Publications
-        href: publications/publications.qmd
+      - text: Teaching 
+        href: teaching/index.qmd
+     
     #right:
       #- icon: envelope
        # aria-label: email

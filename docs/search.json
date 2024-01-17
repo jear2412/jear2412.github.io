@@ -75,5 +75,82 @@
     "title": "Scientific Talks and Posters",
     "section": "Past presentations:",
     "text": "Past presentations:\n\nNordStat 2023. Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023. Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD). Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Scientific Talks and Posters",
+    "section": "",
+    "text": "International Conference on Multilevel Analysis, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nISBA World Meeting 2024. Venice, Italy. Poster: Generalized Decomposition priors on R2."
+  },
+  {
+    "objectID": "talks/index.html#upcoming-presentations",
+    "href": "talks/index.html#upcoming-presentations",
+    "title": "Scientific Talks and Posters",
+    "section": "",
+    "text": "International Conference on Multilevel Analysis, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nISBA World Meeting 2024. Venice, Italy. Poster: Generalized Decomposition priors on R2."
+  },
+  {
+    "objectID": "talks/index.html#past-presentations",
+    "href": "talks/index.html#past-presentations",
+    "title": "Scientific Talks and Posters",
+    "section": "Past presentations:",
+    "text": "Past presentations:\n\nNordStat 2023. Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023. Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023. Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Scientific Publications",
+    "section": "",
+    "text": "Reiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint."
+  },
+  {
+    "objectID": "publications/index.html#in-review",
+    "href": "publications/index.html#in-review",
+    "title": "Scientific Publications",
+    "section": "",
+    "text": "Reiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (in review). Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint."
+  },
+  {
+    "objectID": "publications/index.html#accepted",
+    "href": "publications/index.html#accepted",
+    "title": "Scientific Publications",
+    "section": "Accepted",
+    "text": "Accepted"
+  },
+  {
+    "objectID": "publications/index.html#section",
+    "href": "publications/index.html#section",
+    "title": "Scientific Publications",
+    "section": "2023",
+    "text": "2023\n\nAguilar J. E. & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. Electronic Journal of Statistics. Available for free also on ArXiv. doi:10.1214/23-EJS2136"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Data science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund."
+  },
+  {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "Data science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund."
+  },
+  {
+    "objectID": "teaching/index.html#section-1",
+    "href": "teaching/index.html#section-1",
+    "title": "Teaching",
+    "section": "2022",
+    "text": "2022\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart."
+  },
+  {
+    "objectID": "teaching/index.html#section-2",
+    "href": "teaching/index.html#section-2",
+    "title": "Teaching",
+    "section": "2020",
+    "text": "2020\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
   }
 ]

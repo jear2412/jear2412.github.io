@@ -1,0 +1,18 @@
+---
+title: Teaching
+excertp: "A list of courses I have lectured"
+toc-location: right
+page-layout: full
+---
+
+\## 2023
+
+-   Data science in context. Winter semester. TU Dortmund.
+
+-   Intensive course in Statistics. Summer semester. TU Dortmund.
+
+\## 2022
+
+-   Bayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.
+
+\## 2020

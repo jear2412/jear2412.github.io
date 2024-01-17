@@ -1,5 +1,13 @@
 ---
 title: "Welcome"
+comments: false
+page-layout: full
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+aliases:
+  - /about
 ---
 
 Hello. Welcome to my personal website!
