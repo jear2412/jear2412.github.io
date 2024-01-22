@@ -1,10 +1,9 @@
 ---
 title: Teaching
 excertp: "A list of courses I have lectured"
-toc-location: right
+#toc-location: right
 page-layout: full
 ---
-
 
 ## 2023
 
@@ -18,6 +17,6 @@ page-layout: full
 
 ## 2020
 
-- Epidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.
+-   Epidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.
 
-- Statistical Models. Summer semester. Center for Research in Mathematics CIMAT.
+-   Statistical Models. Summer semester. Center for Research in Mathematics CIMAT.
