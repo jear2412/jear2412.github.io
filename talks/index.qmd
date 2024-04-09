@@ -9,11 +9,11 @@ page-layout: full
 
 -   ISBA World Meeting 2024, Venice, Italy. Poster: *Generalized Decomposition priors on R2.*
 
--   Bernoulli-*ims* 11th World Congress in Probability and Statistics, Bochum, Germany. Contributed Talk: *Generalized Decomposition priors on R2.*
+-   Bernoulli-*ims* 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: *Generalized Decomposition priors on R2.*
 
 ## Past presentations:
 
--   International Conference on Multilevel Analysis, Utrecht, Netherlands. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
+-   International Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 
 -   NordStat 2023, Gothenburg, Sweden. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
 

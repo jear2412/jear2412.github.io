@@ -26,7 +26,7 @@ website:
         href: teaching/index.qmd
      
     right:
-      - icon: envelope
+      - text: "{{< fa envelope >}}"
         aria-label: email
         href: "mailto:javier.aguilarr@icloud.com"
       #- icon: github
