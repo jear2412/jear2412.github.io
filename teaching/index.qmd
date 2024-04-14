@@ -1,27 +1,37 @@
 ---
-title: Teaching
+#title: Teaching
 excertp: "A list of courses I have lectured"
 #toc-location: right
 page-layout: full
 ---
 
-## 2024
+## Teaching
+
+
+### 2024
 - Intensive course in statistics. Summer semester. TU Dortmund.
 
-## 2023
+### 2023
 
 -   Data science in context. Winter semester. TU Dortmund.
 
 -   Intensive course in statistics. Summer semester. TU Dortmund.
 
-## 2022
+### 2022
 
 -   Bayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.
 
-## 2020
+### 2020
 
 -   Epidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.
 
 -   Statistical Models. Summer semester. Center for Research in Mathematics CIMAT.
+
+<!-- ## Thesis and projects supervision -->
+
+<!-- - Juan Isaula. Black box time series models for time seris. Bachelor thesis. National Autonomous University of Honduras (UNAH). -->
+
+<!-- - . Black box time series models for time seris. Bachelor thesis. National Autonomous University of Honduras (UNAH). -->
+
 
 
