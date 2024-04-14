@@ -1,18 +1,30 @@
 ---
-title: "Welcome"
-comments: false
-page-layout: full
+title: "Javier Enrique Aguilar"
+subtitle: "Doctoral researcher Computer Science"
+#comments: false
+from: markdown+emoji
+image: graphics/me.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  
+  links:
+    - text: Email
+      icon: envelope-fill
+      href: mailto:javier.aguilarr@icloud.com
+    - text: Github
+      icon: github
+      href: https://github.com/jear2412
+    
 format:
   html: 
-    margin-top: 0em
-    margin-bottom: 0em
+    page-layout: full
 aliases:
   - /about
 ---
 
-Hello. Welcome to my personal website!
-
-I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart and a research assistant at [TU Dortmund](https://statistik.tu-dortmund.de). My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
+I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart and a research assistant at [TU Dortmund](https://compstat.statistik.tu-dortmund.de/en/). My supervisor is [Prof. Dr. Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://www.cimat.mx) in Guanajuato, Mexico, under the supervision of [Dr. Andrés Christen](https://www.cimat.mx/~jac/).
 
 I am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.
 

@@ -2,51 +2,54 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-    - "talks/pdf/**"
+  #resources: 
+   # - "talks/pdf/**"
     #- "teaching/**"
   
 website:
-  title: "Javier Enrique Aguilar"
+  title: "J.E. Aguilar"
   #image: images/javier-aguilar-small.png
   search: 
     location: navbar
     type: textbox
   navbar:
     background: primary
-    pinned: true
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - text: Publications
+        text: "Home"
+      - text: "Publications"
         href: publications/index.qmd
-      - text: Talks
+      - text: "Talks"
         href: talks/index.qmd
-      - text: Teaching 
+      - text: "Teaching" 
         href: teaching/index.qmd
+      #- text: "Other" 
+      #  href: teaching/index.qmd
      
-    right:
-      - text: "{{< fa envelope >}}"
-        aria-label: email
+    tools:
+      - icon: envelope-fill
         href: "mailto:javier.aguilarr@icloud.com"
-      #- icon: github
-       # href: https://github.com/jear2412
-        #aria-label: GitHub
-    page-footer: 
-      left: "Copyright 2024, Javier Aguilar" 
+      - icon: github
+        href: https://github.com/jear2412
+  page-footer: 
+      left: "copyright: 2024, Javier Enrique Aguilar" 
+      right: 
+          - icon: envelope-fill
+            href: mailto:javier.aguilarr@icloud.com
+          - icon: github
+            href: https://github.com/jear2412
+
   open-graph: true
   
 
 format:
    html:
-    fontsize: 1.1em
-    mainfont: arial
-    theme: 
-      light: cosmo
-      dark: darkly
+    #mainfont: arial
+    theme: flatly
     css: styles.css
     #toc: true
 
-editor: visual
+#editor: visual
 
 

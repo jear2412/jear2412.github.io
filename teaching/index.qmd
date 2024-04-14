@@ -5,6 +5,9 @@ excertp: "A list of courses I have lectured"
 page-layout: full
 ---
 
+## 2024
+- Intensive course in statistics. Summer semester. TU Dortmund.
+
 ## 2023
 
 -   Data science in context. Winter semester. TU Dortmund.
@@ -20,3 +23,5 @@ page-layout: full
 -   Epidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.
 
 -   Statistical Models. Summer semester. Center for Research in Mathematics CIMAT.
+
+
