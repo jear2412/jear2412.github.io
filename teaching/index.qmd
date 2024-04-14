@@ -7,9 +7,9 @@ page-layout: full
 
 ## Teaching
 
-
 ### 2024
-- Intensive course in statistics. Summer semester. TU Dortmund.
+
+-   Intensive course in statistics. Summer semester. TU Dortmund.
 
 ### 2023
 
@@ -32,6 +32,3 @@ page-layout: full
 <!-- - Juan Isaula. Black box time series models for time seris. Bachelor thesis. National Autonomous University of Honduras (UNAH). -->
 
 <!-- - . Black box time series models for time seris. Bachelor thesis. National Autonomous University of Honduras (UNAH). -->
-
-
-
