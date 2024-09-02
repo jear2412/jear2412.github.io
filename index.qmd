@@ -1,6 +1,6 @@
 ---
 title: "Javier Enrique Aguilar"
-subtitle: "Doctoral researcher Computer Science"
+subtitle: "Doctoral researcher in Statistics"
 #comments: false
 from: markdown+emoji
 image: graphics/me.jpg
@@ -24,8 +24,8 @@ aliases:
   - /about
 ---
 
-I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart and a research assistant at [TU Dortmund](https://compstat.statistik.tu-dortmund.de/en/). My supervisor is [Paul Bürkner](https://paul-buerkner.github.io). Before, I studied a Master's degree in Probability and Statistics at the Center for Research in Mathematics [CIMAT](https://ppe.cimat.mx) in Guanajuato, Mexico, under the supervision of [Andrés Christen](https://www.cimat.mx/~jac/).
+I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart and a research assistant at [TU Dortmund](https://compstat.statistik.tu-dortmund.de/en/), working with [Paul Bürkner](https://paul-buerkner.github.io). I hold a Master's degree in Probability and Statistics from the Center for Research in Mathematics [CIMAT](https://ppe.cimat.mx) in Guanajuato, Mexico, where I was supervised by [Andrés Christen](https://www.cimat.mx/~jac/).
 
-I am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.
+My research interests focus on Bayesian Inference, Bayesian Computation, Prior Specification, Probabilistic Programming, and High-Dimensional Statistics.
 
-Be sure to [contact me](mailto:javier.aguilarr@icloud.com) if you ever want to work together or if you have doubts or comments about my work.
+Feel free to [reach out](mailto:javier.aguilarr@icloud.com) if you’re interested in collaborating or have any questions or comments about my work.

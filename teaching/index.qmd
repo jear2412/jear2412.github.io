@@ -9,6 +9,10 @@ page-layout: full
 
 ### 2024
 
+-   Applied Bayesian data analysis. Winter semester. TU Dortmund.
+
+-   Data science in context. Winter semester. TU Dortmund.
+
 -   Intensive course in statistics. Summer semester. TU Dortmund.
 
 ### 2023

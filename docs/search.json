@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Javier Enrique Aguilar",
     "section": "",
-    "text": "I am a doctoral researcher at the Cluster of Excellence SimTech at the University of Stuttgart and a research assistant at TU Dortmund. My supervisor is Paul Bürkner. Before, I studied a Master’s degree in Probability and Statistics at the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, under the supervision of Andrés Christen.\nI am interested in Bayesian Inference, Prior specification, Bayesian Computation, Probabilistic Programming and High Dimensional Statistics.\nBe sure to contact me if you ever want to work together or if you have doubts or comments about my work."
+    "text": "I am a doctoral researcher at the Cluster of Excellence SimTech at the University of Stuttgart and a research assistant at TU Dortmund, working with Paul Bürkner. I hold a Master’s degree in Probability and Statistics from the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, where I was supervised by Andrés Christen.\nMy research interests focus on Bayesian Inference, Bayesian Computation, Prior Specification, Probabilistic Programming, and High-Dimensional Statistics.\nFeel free to reach out if you’re interested in collaborating or have any questions or comments about my work."
   },
   {
     "objectID": "about.html",
@@ -95,7 +95,7 @@
     "href": "talks/index.html#past-presentations",
     "title": "Scientific Talks and Posters",
     "section": "Past presentations:",
-    "text": "Past presentations:\n\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+    "text": "Past presentations:\n\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
   },
   {
     "objectID": "publications/index.html",
@@ -130,7 +130,7 @@
     "href": "teaching/index.html",
     "title": "J.E. Aguilar",
     "section": "",
-    "text": "Intensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+    "text": "Applied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
   },
   {
     "objectID": "teaching/index.html#section",
@@ -165,6 +165,6 @@
     "href": "teaching/index.html#teaching",
     "title": "J.E. Aguilar",
     "section": "",
-    "text": "Intensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+    "text": "Applied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
   }
 ]
