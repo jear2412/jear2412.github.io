@@ -79,9 +79,9 @@
   {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
-    "title": "Scientific Talks and Posters",
+    "title": "Scientific events",
     "section": "",
-    "text": "ISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2.\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2."
+    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop."
   },
   {
     "objectID": "talks/index.html#upcoming-presentations",
@@ -95,7 +95,7 @@
     "href": "talks/index.html#past-presentations",
     "title": "Scientific Talks and Posters",
     "section": "Past presentations:",
-    "text": "Past presentations:\n\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science (ICSDS) 2022, Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+    "text": "Past presentations:\n\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science ICSDS 2022 , Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
   },
   {
     "objectID": "publications/index.html",
@@ -166,5 +166,19 @@
     "title": "J.E. Aguilar",
     "section": "",
     "text": "Applied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+  },
+  {
+    "objectID": "talks/index.html#upcoming-events",
+    "href": "talks/index.html#upcoming-events",
+    "title": "Scientific events",
+    "section": "",
+    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop."
+  },
+  {
+    "objectID": "talks/index.html#past-events",
+    "href": "talks/index.html#past-events",
+    "title": "Scientific events",
+    "section": "Past events:",
+    "text": "Past events:\n\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science ICSDS 2022 , Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
   }
 ]
