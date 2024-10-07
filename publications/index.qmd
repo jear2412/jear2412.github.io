@@ -5,13 +5,11 @@ toc-location: right
 ---
 
 ## In Review
--  **Aguilar J. E** & Bürkner P. C.  [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
+-  **Aguilar J. E** & Bürkner P. C. (2024)  [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
 
--   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C.  [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
+-   Marcos M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024)  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *ArXiv preprint*.
 
--   Marcos M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F.  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *ArXiv preprint*.
-
-
+-   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (2023)  [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
 
 
 ## Accepted

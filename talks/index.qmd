@@ -11,7 +11,7 @@ page-layout: full
 
 -  [International Conference on Statistics and Data Science ICSDS 2024 ](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024. Contribution: *Dependency aware shrinkage priors.*
 
-- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *One-day Bayesian Data Analysis Workshop.*
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *One-day Bayesian Data Analysis Workshop.* Instructors: Javier Aguilar, Luna Fazio.
 
 ## Past events:
  

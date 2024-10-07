@@ -81,7 +81,7 @@
     "href": "talks/index.html",
     "title": "Scientific events",
     "section": "",
-    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop."
+    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio."
   },
   {
     "objectID": "talks/index.html#upcoming-presentations",
@@ -102,14 +102,14 @@
     "href": "publications/index.html",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Aguilar J. E & Bürkner P. C. Generalized Decomposition Priors on R2. ArXiv preprint.\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint.\nMarcos M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. ArXiv preprint."
+    "text": "Aguilar J. E & Bürkner P. C. (2024) Generalized Decomposition Priors on R2. ArXiv preprint.\nMarcos M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. ArXiv preprint.\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (2023) Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint."
   },
   {
     "objectID": "publications/index.html#in-review",
     "href": "publications/index.html#in-review",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Aguilar J. E & Bürkner P. C. Generalized Decomposition Priors on R2. ArXiv preprint.\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint.\nMarcos M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. ArXiv preprint."
+    "text": "Aguilar J. E & Bürkner P. C. (2024) Generalized Decomposition Priors on R2. ArXiv preprint.\nMarcos M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. ArXiv preprint.\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (2023) Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference. ArXiv preprint."
   },
   {
     "objectID": "publications/index.html#accepted",
@@ -172,7 +172,7 @@
     "href": "talks/index.html#upcoming-events",
     "title": "Scientific events",
     "section": "",
-    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop."
+    "text": "Bayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Dependency aware shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio."
   },
   {
     "objectID": "talks/index.html#past-events",
