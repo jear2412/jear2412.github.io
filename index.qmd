@@ -16,9 +16,9 @@ about:
     - text: Github
       icon: github
       href: https://github.com/jear2412
-    - text: "Google Scholar"
-      aria-label: google-scholar
-      href: https://scholar.google.com/citations?user=ysOrxQUAAAAJ&hl=en
+    #- text: Google Scholar"
+    #  aria-label: google-scholar
+    #  href: https://scholar.google.com/citations?user=ysOrxQUAAAAJ&hl=en
     
 format:
   html: 
