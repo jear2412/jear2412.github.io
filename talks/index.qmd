@@ -7,13 +7,13 @@ page-layout: full
 
 ## Upcoming events:
 
--   [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org), Amsterdam, Netherlands, October 2024. Poster: *Generalized Decomposition priors on R2.* 
-
 -  [International Conference on Statistics and Data Science ICSDS 2024 ](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024. Contribution: *Dependency aware shrinkage priors.*
 
-- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *One-day Bayesian Data Analysis Workshop.* Instructors: Javier Aguilar, Luna Fazio.
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *One-day Bayesian Data Analysis Workshop.* Instructors: Javier Aguilar, [Luna Fazio](https://lunafazio.github.io).
 
 ## Past events:
+ 
+-   [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org), Amsterdam, Netherlands, October 2024. Poster: *Generalized Decomposition priors on R2.* 
  
 -   [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home), Venice, Italy. Poster: *Generalized Decomposition priors on R2.* (Accepted, but did not attend)
 
