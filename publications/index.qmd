@@ -4,16 +4,17 @@ excerpt: "A list of my scientific publications"
 toc-location: right
 ---
 
+
+## Accepted
+
+### 2023
+
+-   **Aguilar J. E.** & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
+
+
 ## In Review
 -  **Aguilar J. E** & Bürkner P. C. (2024)  [Generalized Decomposition Priors on R2](https://arxiv.org/abs/2401.10180). *ArXiv preprint*.
 
 -   Marcos M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024)  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *ArXiv preprint*.
 
 -   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (2023)  [Uncertainty Quantification and Propagation in Surrogate-based Bayesian Inference](https://arxiv.org/abs/2312.05153). *ArXiv preprint*.
-
-
-## Accepted
-
-## 2023
-
--   **Aguilar J. E.** & Bürkner P. C. (2023). [Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior](https://doi.org/10.1214/23-EJS2136). *Electronic Journal of Statistics*. Available for free also on [ArXiv](https://arxiv.org/abs/2208.07132). doi:10.1214/23-EJS2136
