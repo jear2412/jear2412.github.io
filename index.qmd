@@ -3,7 +3,7 @@ title: "Javier Enrique Aguilar"
 subtitle: "Doctoral researcher in Statistics"
 #comments: false
 from: markdown+emoji
-image: graphics/me.jpg
+image: graphics/me_3.jpg
 about:
   template: trestles
   image-width: 15em
