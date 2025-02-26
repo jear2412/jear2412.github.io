@@ -7,6 +7,10 @@ page-layout: full
 
 ## Teaching
 
+### 2025
+
+- Seminar on Model Comparison. Summer semester. TU Dortmund.
+
 ### 2024
 
 -   Applied Bayesian data analysis. Winter semester. TU Dortmund.

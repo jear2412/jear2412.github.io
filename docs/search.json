@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Javier Enrique Aguilar",
     "section": "",
-    "text": "I am a doctoral researcher at the Cluster of Excellence SimTech at the University of Stuttgart and a research assistant at TU Dortmund, working with Paul Bürkner. I have a Master’s degree in Probability and Statistics from the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, where I was supervised by Andrés Christen.\nMy research interests are Bayesian Inference, Bayesian Computation, Prior Specification, Probabilistic Programming, and High-Dimensional Statistics.\nFeel free to reach out if you’re interested in collaborating or have any questions or comments about my work."
+    "text": "I am a doctoral researcher at the Cluster of Excellence SimTech at the University of Stuttgart and a research assistant at TU Dortmund, working with Paul Bürkner. I have a Master’s degree in Probability and Statistics from the Center for Research in Mathematics CIMAT in Guanajuato, Mexico, where I was supervised by Andrés Christen.\nMy main research interests are Bayesian Inference, Bayesian Computation, Prior Specification, Probabilistic Programming, and High-Dimensional Statistics.\nFeel free to reach out if you’re interested in collaborating or have any questions or comments about my work."
   },
   {
     "objectID": "about.html",
@@ -81,7 +81,7 @@
     "href": "talks/index.html",
     "title": "Scientific events",
     "section": "",
-    "text": "German Probability and Statistics Days (GPSD) 2025, Dresden, Germany. Contributed Talk: Dependency Aware Shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio.\nValència International Bayesian Analysis Summer School VIBASS 8, València, Spain. Workshop: Bayesian Data Analysis. Instructor."
+    "text": "German Probability and Statistics Days (GPSD) 2025, Dresden, Germany. Contributed Talk: Dependency Aware Shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio.\n53th Probability Summer School Saint-Flour France. Participant.\nValència International Bayesian Analysis Summer School VIBASS 8, València, Spain, July 2025. Workshop: Bayesian Data Analysis. Instructor.\nConference of the DGPs Methods and Evaluation Section 2025, Berlin, Germany. Workshop: Bayesian Data Analysis. Instructor."
   },
   {
     "objectID": "talks/index.html#upcoming-presentations",
@@ -130,7 +130,7 @@
     "href": "teaching/index.html",
     "title": "J.E. Aguilar",
     "section": "",
-    "text": "Applied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+    "text": "Seminar on Model Comparison. Summer semester. TU Dortmund.\n\n\n\n\n\nApplied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
   },
   {
     "objectID": "teaching/index.html#section",
@@ -165,20 +165,20 @@
     "href": "teaching/index.html#teaching",
     "title": "J.E. Aguilar",
     "section": "",
-    "text": "Applied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+    "text": "Seminar on Model Comparison. Summer semester. TU Dortmund.\n\n\n\n\n\nApplied Bayesian data analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
   },
   {
     "objectID": "talks/index.html#upcoming-events",
     "href": "talks/index.html#upcoming-events",
     "title": "Scientific events",
     "section": "",
-    "text": "German Probability and Statistics Days (GPSD) 2025, Dresden, Germany. Contributed Talk: Dependency Aware Shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio.\nValència International Bayesian Analysis Summer School VIBASS 8, València, Spain. Workshop: Bayesian Data Analysis. Instructor."
+    "text": "German Probability and Statistics Days (GPSD) 2025, Dresden, Germany. Contributed Talk: Dependency Aware Shrinkage priors.\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025, Berlin, Germany, March 2025. Tutorial: One-day Bayesian Data Analysis Workshop. Instructors: Javier Aguilar, Luna Fazio.\n53th Probability Summer School Saint-Flour France. Participant.\nValència International Bayesian Analysis Summer School VIBASS 8, València, Spain, July 2025. Workshop: Bayesian Data Analysis. Instructor.\nConference of the DGPs Methods and Evaluation Section 2025, Berlin, Germany. Workshop: Bayesian Data Analysis. Instructor."
   },
   {
     "objectID": "talks/index.html#past-events",
     "href": "talks/index.html#past-events",
     "title": "Scientific events",
     "section": "Past events:",
-    "text": "Past events:\n\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contribution: Generalized Decomposition priors on R2.\nBayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nELLIS Society Mobility Fund Visiting scholar Department of Computer Science Aalto University Helsinki, Finland. Project: Grouped R2 decomposition priors. Collaboration with Aki Vehtari and David Kohns (In preparation)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science ICSDS 2022 , Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
+    "text": "Past events:\n\nInternational Conference on Statistics and Data Science ICSDS 2024, Nice, France, December 2024. Contributed talk: Generalized Decomposition priors on R2.\nBayesian Methods for the Social Sciences II, Amsterdam, Netherlands, October 2024. Poster: Generalized Decomposition priors on R2.\nISBA World Meeting 2024, Venice, Italy. Poster: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nBernoulli-ims 11th World Congress in Probability and Statistics 2024, Bochum, Germany. Contributed Talk: Generalized Decomposition priors on R2. (Accepted, but did not attend)\nELLIS Society Mobility Fund Visiting scholar Department of Computer Science Aalto University Helsinki, Finland. Project: Grouped R2 decomposition priors. Collaboration with Aki Vehtari and David Kohns (In preparation)\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nNordStat 2023, Gothenburg, Sweden. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nBayesComp 2023, Levi, Finland. Poster: Intuitive Joint Priors for Bayesian Multilevel Models.\nGerman Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models.\nInternational Conference on Statistics and Data Science ICSDS 2022 , Florence, Italy 2022. Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models. Student travel award given by the IMS."
   }
 ]
