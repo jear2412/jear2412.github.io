@@ -1,3 +1,3 @@
 ## Personal website
 
-Last updated 15.04.2024 🙂
+thank you for being here :)
