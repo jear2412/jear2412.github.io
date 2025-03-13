@@ -20,7 +20,7 @@ website:
         text: "Home"
       - text: "Publications"
         href: publications/index.qmd
-      - text: "Talks"
+      - text: "Events"
         href: talks/index.qmd
       - text: "Teaching" 
         href: teaching/index.qmd
