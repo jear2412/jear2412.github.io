@@ -9,7 +9,7 @@ toc-location: right
 
 ### 2025
 
--   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (2023)  [Uncertainty quantification and propagation in surrogate-based Bayesian inference](https://link.springer.com/article/10.1007/s11222-025-10597-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250313&utm_content=10.1007/s11222-025-10597-8). *Statistics and Computing*.  Available for free also on [ArXiv](). doi:10.1007/s11222-025-10597-8
+-   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (2023)  [Uncertainty quantification and propagation in surrogate-based Bayesian inference](https://link.springer.com/article/10.1007/s11222-025-10597-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250313&utm_content=10.1007/s11222-025-10597-8). *Statistics and Computing*.  Available for free also on [ArXiv](https://arxiv.org/abs/2312.05153). doi:10.1007/s11222-025-10597-8
 
 ### 2023
 
