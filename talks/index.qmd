@@ -9,13 +9,16 @@ page-layout: full
 
 -  [German Probability and Statistics Days (GPSD) 2025](https://www.gpsd-2025.de/), Dresden, Germany. Contributed Talk: *Dependency Aware Shrinkage priors*.
 
-- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *One-day Bayesian Data Analysis Workshop.* Instructors: Javier Aguilar, [Luna Fazio](https://lunafazio.github.io).
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *Bayesian Data Analysis Workshop* Instructors: Javier Aguilar, [Luna Fazio](https://lunafazio.github.io).
+
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Contributed Talk: Contributed talk:  *Generalized Decomposition priors on R2.*
+
 
 - [53th Probability Summer School Saint-Flour](https://lmbp.uca.fr/stflour/) Course: Deep learning: a statistical perspective. France. Participant.
 
 - [València International Bayesian Analysis Summer School VIBASS 8](http://vabar.es/events/vibass8/), València, Spain, July 2025. Workshop: *Bayesian Data Analysis*. Instructor.
 
-- [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Berlin, Germany.
+- [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Berlin, Germany, September 2025.
 Workshop: *Bayesian Data Analysis*. Instructor.
 
 ## Past events:
