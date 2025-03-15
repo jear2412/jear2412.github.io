@@ -34,6 +34,8 @@ I am a doctoral researcher at the [Cluster of Excellence SimTech](https://www.si
 
 My main research interests are Bayesian Inference, Bayesian Computation, Prior Specification, Probabilistic Programming, and High-Dimensional Statistics.
 
+I am a reviewer for several journals including *Royal Statistical Society*, *Statistics in Medicine* and *Applied Statistics* among others.
+
 Feel free to [reach out](mailto:javier.aguilarr@icloud.com) if you’re interested in collaborating or have any questions or comments about my work.
 
 :::
