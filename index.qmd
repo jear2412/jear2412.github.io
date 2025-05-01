@@ -1,0 +1,38 @@
+---
+title: "Javier Enrique Aguilar"
+subtitle: "Doctoral Researcher in Statistics"
+from: markdown+emoji
+about:
+  template: trestles
+  image: graphics/javier-aguilar-small.jpeg
+  image-width: 15em
+  image-shape: round
+
+  links:
+    - text: Email
+      icon: envelope-fill
+      href: mailto:javier.aguilarr@icloud.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/jear2412
+    - text: Google Scholar
+      icon: mortarboard-fill
+      href: https://scholar.google.com/citations?user=ysOrxQUAAAAJ&hl=en
+
+format:
+  html: 
+    page-layout: full
+    icons: [bootstrap, simple-icons] 
+aliases:
+  - /about
+---
+
+::: {#about-heading}
+I am a doctoral researcher and research assistant at [TU Dortmund University](https://compstat.statistik.tu-dortmund.de/en/), where I work with [Paul Bürkner](https://paul-buerkner.github.io). Previously, I was a research assistant at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart. I hold a Master’s degree in Probability and Statistics from the Center for Research in Mathematics ([CIMAT](https://ppe.cimat.mx)) in Guanajuato, Mexico, where I was supervised by [Andrés Christen](https://www.cimat.mx/~jac/).
+
+My research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics.
+
+I regularly review submissions for journals such as the *Journal of the Royal Statistical Society*, *Statistics in Medicine*, and *Applied Statistics*, among others.
+
+Feel free to [get in touch](mailto:javier.aguilarr@icloud.com) if you're interested in collaborating or would like to discuss my work.
+:::

@@ -1,0 +1,41 @@
+---
+title: Scientific events
+excerpt: "A list of talks and events I have participated in"
+toc-location: right
+page-layout: full
+---
+
+## Upcoming events:
+
+- [València International Bayesian Analysis Summer School VIBASS 8](http://vabar.es/events/vibass8/), València, Spain, July 2025. Workshop: *Bayesian Data Analysis*. Instructor.
+
+- [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Berlin, Germany, September 2025.
+Workshop: *Bayesian Data Analysis*. Instructor.
+
+## Past events:
+
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Contributed Talk: Contributed talk:  *Generalized Decomposition priors on R2.* 
+ 
+- [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Tutorial: *Bayesian Data Analysis Workshop* Instructors: Javier Aguilar, [Luna Fazio](https://lunafazio.github.io).
+ 
+-  [German Probability and Statistics Days (GPSD) 2025](https://www.gpsd-2025.de/), Dresden, Germany. Contributed Talk: *Dependency Aware Shrinkage priors*.
+ 
+-  [International Conference on Statistics and Data Science ICSDS 2024 ](https://sites.google.com/view/ims-icsds2024/), Nice, France, December 2024. Contributed talk:  *Generalized Decomposition priors on R2.*
+ 
+-   [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org), Amsterdam, Netherlands, October 2024. Poster: *Generalized Decomposition priors on R2.* 
+ 
+-   [ISBA World Meeting 2024](https://www.unive.it/web/en/2208/home), Venice, Italy. Poster: *Generalized Decomposition priors on R2.* (Accepted, but did not attend)
+
+-   [Bernoulli-*ims* 11th World Congress in Probability and Statistics 2024](https://www.bernoulli-ims-worldcongress2024.org), Bochum, Germany. Contributed Talk: *Generalized Decomposition priors on R2.* (Accepted, but did not attend)
+
+-   [ELLIS Society Mobility Fund](https://ellis.eu/mobility-fund) *Visiting scholar* [Department of Computer Science Aalto University](https://www.aalto.fi/en/department-of-computer-science) Helsinki, Finland. Project: *Grouped R2 decomposition priors*. Collaboration with [Aki Vehtari](https://users.aalto.fi/~ave/) and [David Kohns](https://davkoh.github.io)  (In preparation)
+
+-   [International Conference on Multilevel Analysis 2024](https://multilevel.fss.uu.nl), Utrecht, Netherlands. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
+
+-   [NordStat 2023](https://nordstat2023.org), Gothenburg, Sweden. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
+
+-   [BayesComp 2023](https://bayescomp2023.com/home), Levi, Finland. Poster: *Intuitive Joint Priors for Bayesian Multilevel Models*.
+
+-   German Probability and Statistics Days (GPSD) 2023, Essen, Germany. Contributed Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*.
+
+-   [International Conference on Statistics and Data Science ICSDS 2022 ](https://sites.google.com/view/icsds2022) , Florence, Italy 2022. Invited Talk: *Intuitive Joint Priors for Bayesian Multilevel Models*. [Student travel award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/) given by the IMS.
