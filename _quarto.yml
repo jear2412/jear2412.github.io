@@ -11,7 +11,7 @@ publish:
     #- "teaching/**"
   
 website:
-  title: "J.E. Aguilar"
+  title: "J.E. Aguilar "
   #image: graphics/javier-aguilar-small.jpeg
   search: 
     location: navbar
