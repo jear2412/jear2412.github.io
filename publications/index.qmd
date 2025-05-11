@@ -20,6 +20,6 @@ toc-location: right
 
 ## In Review
 
--   Marcos M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024)  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *ArXiv preprint*.
+-   Matabuena M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024)  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *ArXiv preprint*.
 
 
