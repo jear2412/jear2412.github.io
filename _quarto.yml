@@ -37,7 +37,7 @@ website:
       - icon: github
         href: https://github.com/jear2412
   page-footer: 
-      left: "copyright: 2025, Javier Enrique Aguilar. Thank you for visiting" 
+      left: "copyright: 2025, Javier Enrique Aguilar. Thank you for visiting." 
       right: 
           - icon: envelope-fill
             href: mailto:javier.aguilarr@icloud.com
