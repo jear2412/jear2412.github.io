@@ -1,5 +1,6 @@
 ---
 title: Scientific Publications
+format: html
 excerpt: "A list of my scientific publications"
 toc-location: right
 page-layout: full
