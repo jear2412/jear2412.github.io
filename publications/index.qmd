@@ -9,7 +9,7 @@ toc-location: right
 
 ### 2025
 
--  **Aguilar J. E** & Bürkner P. C. (2025)  [Generalized Decomposition Priors on R2]( ). *To appear in Bayesian Analysis*. Available for free also on [Arxiv](https://arxiv.org/abs/2401.10180).
+-  **Aguilar J. E** & Bürkner P. C. (2025)  [Generalized Decomposition Priors on R2](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full). *Bayesian Analysis*. Available for free also on [Arxiv](https://arxiv.org/abs/2401.10180). doi:10.1214/25-BA1524
 
 -   Reiser P., **Aguilar J. E**., Guthke A., & Bürkner P. C. (2025)  [Uncertainty quantification and propagation in surrogate-based Bayesian inference](https://link.springer.com/article/10.1007/s11222-025-10597-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250313&utm_content=10.1007/s11222-025-10597-8). *Statistics and Computing*.  Available for free also on [ArXiv](https://arxiv.org/abs/2312.05153). doi:10.1007/s11222-025-10597-8
 
