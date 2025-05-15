@@ -4,14 +4,14 @@
     "href": "publications/index.html",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Aguilar J. E & Bürkner P. C. (2025) Generalized Decomposition Priors on R2. Bayesian Analysis. Available for free also on Arxiv. doi:10.1214/25-BA1524\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (2025) Uncertainty quantification and propagation in surrogate-based Bayesian inference. Statistics and Computing. Available for free also on ArXiv. doi:10.1007/s11222-025-10597-8\n\n\n\n\n\nAguilar J. E. & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. Electronic Journal of Statistics. Available for free also on ArXiv. doi:10.1214/23-EJS2136"
+    "text": "Aguilar J. E & Bürkner P.-C. (2025) Generalized Decomposition Priors on R2. Bayesian Analysis. Available for free also on arXiv. doi:10.1214/25-BA1524\nReiser P., Aguilar J. E., Guthke A., & Bürkner P.-C. (2025) Uncertainty quantification and propagation in surrogate-based Bayesian inference. Statistics and Computing. Available for free also on arXiv. doi:10.1007/s11222-025-10597-8\n\n\n\n\n\nAguilar J. E. & Bürkner P.-C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. Electronic Journal of Statistics. Available for free also on arXiv. doi:10.1214/23-EJS2136"
   },
   {
     "objectID": "publications/index.html#in-review",
     "href": "publications/index.html#in-review",
     "title": "Scientific Publications",
     "section": "In Review",
-    "text": "In Review\n\nMatabuena M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. ArXiv preprint."
+    "text": "In Review\n\nAguilar J. E. & Bürkner P.-C. (2025). Dependency-Aware Shrinkage Priors for High Dimensional Regression. arXiv preprint.\nMatabuena M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. arXiv preprint."
   },
   {
     "objectID": "talks/index.html",
@@ -53,7 +53,7 @@
     "href": "publications/index.html#accepted",
     "title": "Scientific Publications",
     "section": "",
-    "text": "Aguilar J. E & Bürkner P. C. (2025) Generalized Decomposition Priors on R2. Bayesian Analysis. Available for free also on Arxiv. doi:10.1214/25-BA1524\nReiser P., Aguilar J. E., Guthke A., & Bürkner P. C. (2025) Uncertainty quantification and propagation in surrogate-based Bayesian inference. Statistics and Computing. Available for free also on ArXiv. doi:10.1007/s11222-025-10597-8\n\n\n\n\n\nAguilar J. E. & Bürkner P. C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. Electronic Journal of Statistics. Available for free also on ArXiv. doi:10.1214/23-EJS2136"
+    "text": "Aguilar J. E & Bürkner P.-C. (2025) Generalized Decomposition Priors on R2. Bayesian Analysis. Available for free also on arXiv. doi:10.1214/25-BA1524\nReiser P., Aguilar J. E., Guthke A., & Bürkner P.-C. (2025) Uncertainty quantification and propagation in surrogate-based Bayesian inference. Statistics and Computing. Available for free also on arXiv. doi:10.1007/s11222-025-10597-8\n\n\n\n\n\nAguilar J. E. & Bürkner P.-C. (2023). Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior. Electronic Journal of Statistics. Available for free also on arXiv. doi:10.1214/23-EJS2136"
   },
   {
     "objectID": "talks/index.html#upcoming-events",
