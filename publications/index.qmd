@@ -22,6 +22,8 @@ page-layout: full
 
 ## In Review
 
+- Fazio L., Scholz M., **Aguilar J. E.**, Bürkner P.-C. (2025). [Primed Priors for Simulation-Based Validation of Bayesian Models](https://arxiv.org/abs/2408.06504). *arXiv preprint*.
+
 -  **Aguilar J. E.** & Bürkner P.-C. (2025). [Dependency-Aware Shrinkage Priors for High Dimensional Regression](https://arxiv.org/abs/2505.10715). *arXiv preprint*.
 
 -   Matabuena M., Ghosal R., **Aguilar J. E**, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024)  [Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics](https://arxiv.org/abs/2410.00912). *arXiv preprint*.
