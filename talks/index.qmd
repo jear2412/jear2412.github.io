@@ -7,12 +7,12 @@ page-layout: full
 
 ## Upcoming events:
 
-- [València International Bayesian Analysis Summer School VIBASS 8](http://vabar.es/events/vibass8/), València, Spain, July 2025. Workshop: *Bayesian Data Analysis*. Instructor.
-
 - [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Berlin, Germany, September 2025.
 Workshop: *Bayesian Data Analysis*. Instructor.
 
 ## Past events:
+
+- [València International Bayesian Analysis Summer School VIBASS 8](http://vabar.es/events/vibass8/), València, Spain, July 2025. Workshop: *Bayesian Data Analysis*. Instructor.
 
 - [7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik DAGStat 2025](https://dagstat2025.de/#), Berlin, Germany, March 2025. Contributed Talk: Contributed talk:  *Generalized Decomposition priors on R2.* 
  
