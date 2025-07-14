@@ -30,10 +30,10 @@ aliases:
 ::: {#about-heading}
 I am a doctoral researcher and research assistant at [TU Dortmund University](https://compstat.statistik.tu-dortmund.de/en/), where I work with [Paul Bürkner](https://paul-buerkner.github.io). Previously, I was a research assistant at the [Cluster of Excellence SimTech](https://www.simtech.uni-stuttgart.de) at the University of Stuttgart. I hold a Master’s degree in Probability and Statistics from the Center for Research in Mathematics ([CIMAT](https://ppe.cimat.mx)) in Guanajuato, Mexico, where I was supervised by [Andrés Christen](https://www.cimat.mx/~jac/).
 
-My research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics. I am currently seeking postdoctoral opportunities that align with these areas and would be happy to connect about potential openings or collaborations.
+My research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics. I am currently seeking postdoctoral opportunities that align with these areas and would be happy to connect about potential openings or collaborations. 
 
-I am a reviewer for journals such as the *Journal of the Royal Statistical Society*, *Statistics in Medicine*, and *Applied Statistics*, among others.
+Feel free to [get in touch](mailto:javier.aguilarr@icloud.com) if you're interested.
 
-Feel free to [get in touch](mailto:javier.aguilarr@icloud.com) if you're interested in collaborating or would like to discuss my work.
+<!-- I am a reviewer for journals such as the *Journal of the Royal Statistical Society*, *Statistics in Medicine*, and *Applied Statistics*, among others. -->
 
 :::
