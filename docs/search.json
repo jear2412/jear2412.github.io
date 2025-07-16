@@ -11,7 +11,7 @@
     "href": "publications/index.html#in-review",
     "title": "Scientific Publications",
     "section": "In Review",
-    "text": "In Review\n\nFazio L., Scholz M., Aguilar J. E., Bürkner P.-C. (2025). Primed Priors for Simulation-Based Validation of Bayesian Models. arXiv preprint.\nAguilar J. E. & Bürkner P.-C. (2025). Dependency-Aware Shrinkage Priors for High Dimensional Regression. arXiv preprint.\nMatabuena M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. arXiv preprint."
+    "text": "In Review\n\nAguilar J. E., Kohns D., Vehtari A.,Bürkner P.-C. (2025). R2 priors for Grouped Variance Decomposition in High-dimensional Regression. arXiv preprint.\nFazio L., Scholz M., Aguilar J. E., Bürkner P.-C. (2025). Primed Priors for Simulation-Based Validation of Bayesian Models. arXiv preprint.\nAguilar J. E. & Bürkner P.-C. (2025). Dependency-Aware Shrinkage Priors for High Dimensional Regression. arXiv preprint.\nMatabuena M., Ghosal R., Aguilar J. E, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2024) Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics. arXiv preprint."
   },
   {
     "objectID": "talks/index.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Javier Enrique Aguilar",
     "section": "",
-    "text": "I am a doctoral researcher and research assistant at TU Dortmund University, where I work with Paul Bürkner. Previously, I was a research assistant at the Cluster of Excellence SimTech at the University of Stuttgart. I hold a Master’s degree in Probability and Statistics from the Center for Research in Mathematics (CIMAT) in Guanajuato, Mexico, where I was supervised by Andrés Christen.\nMy research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics. I am currently seeking postdoctoral opportunities that align with these areas and would be happy to connect about potential openings or collaborations.\nFeel free to get in touch if you’re interested."
+    "text": "I am a doctoral researcher and research assistant at TU Dortmund University, where I work with Paul Bürkner. Previously, I was a research assistant at the Cluster of Excellence SimTech at the University of Stuttgart. I hold a Master’s degree in Probability and Statistics from the Center for Research in Mathematics (CIMAT) in Guanajuato, Mexico, where I was supervised by Andrés Christen.\nMy research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics. I am currently seeking postdoctoral opportunities that align with these areas and would be happy to connect about potential openings or collaborations.\nFeel free to contact me. I am always open to collaborations or discussions around Bayesian methods."
   },
   {
     "objectID": "about.html",

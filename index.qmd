@@ -20,9 +20,13 @@ about:
       href: https://scholar.google.com/citations?user=ysOrxQUAAAAJ&hl=en
 
 format:
-  html: 
+  html:
+    theme: cosmo
     page-layout: full
-    icons: [bootstrap, simple-icons] 
+    css: styles.css
+    icons: [bootstrap, simple-icons]
+    toc: false
+
 aliases:
   - /about
 ---
@@ -32,7 +36,9 @@ I am a doctoral researcher and research assistant at [TU Dortmund University](ht
 
 My research interests include Bayesian inference, Bayesian computation, prior specification, probabilistic programming, and high-dimensional statistics. I am currently seeking postdoctoral opportunities that align with these areas and would be happy to connect about potential openings or collaborations. 
 
-Feel free to [get in touch](mailto:javier.aguilarr@icloud.com) if you're interested.
+Feel free to [contact me](mailto:javier.aguilarr@icloud.com). I am always open to collaborations or discussions around Bayesian methods. 
+
+<!-- if you're interested in discussing my research or in collaborating. -->
 
 <!-- I am a reviewer for journals such as the *Journal of the Royal Statistical Society*, *Statistics in Medicine*, and *Applied Statistics*, among others. -->
 
