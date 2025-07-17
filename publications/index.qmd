@@ -22,7 +22,7 @@ page-layout: full
 
 ## In Review
 
--  **Aguilar J. E.**, Kohns D., Vehtari A.,Bürkner P.-C. (2025). [R2 priors for Grouped Variance Decomposition in High-dimensional Regression ]( ). *arXiv preprint*.
+-  **Aguilar J. E.**, Kohns D., Vehtari A.,Bürkner P.-C. (2025). [R2 priors for Grouped Variance Decomposition in High-dimensional Regression ](https://arxiv.org/abs/2507.11833). *arXiv preprint*.
 
 
 - Fazio L., Scholz M., **Aguilar J. E.**, Bürkner P.-C. (2025). [Primed Priors for Simulation-Based Validation of Bayesian Models](https://arxiv.org/abs/2408.06504). *arXiv preprint*.
