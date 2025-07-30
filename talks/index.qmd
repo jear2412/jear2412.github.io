@@ -7,6 +7,9 @@ page-layout: full
 
 ## Upcoming events:
 
+- [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Leuven, Belgium, September 2025.
+Workshop: *Bayesian Data Analysis*. Participant
+
 - [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Berlin, Germany, September 2025.
 Workshop: *Bayesian Data Analysis*. Instructor.
 
