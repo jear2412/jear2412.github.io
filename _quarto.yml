@@ -12,7 +12,7 @@ publish:
   
 website:
   title: "J.E. Aguilar "
-  #image: graphics/javier-aguilar-small.jpeg
+  image: graphics/javier-aguilar-small.jpeg 
   search: 
     location: navbar
     type: textbox
@@ -45,13 +45,22 @@ website:
             href: https://github.com/jear2412
 
   open-graph: true
+
+appearance:
+    toggle: true
+  #page-navigation: true
+  
   
 
 format:
    html:
     #mainfont: arial
-    theme: flatly
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
+    smooth-scroll: true
+    link-external-newwindow: true
     #toc: true
 
 #editor: visual
