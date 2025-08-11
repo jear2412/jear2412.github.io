@@ -7,6 +7,10 @@ page-layout: full
 
 ## Upcoming events:
 
+- [Summer school on Advanced Bayesian Methods](https://quetelet.be/summerschool/), Leuven, Belgium, September 2025. Participant
+
+- [Alumni-Verein Dortmunder Statistikerinnen und Statistiker e.V. and Faculty of Statistics](www.statistik.tu-dortmund.de/alumni-verein.html), Dortmund, Germany, August 2025. Tutorial: *Bayesian Data Analysis Workshop with `brms`* Instructors: Javier Aguilar, [Luna Fazio](https://lunafazio.github.io).
+
 - [Conference of the DGPs Methods and Evaluation Section 2025](http://methods-berlin.com/en/fgme2025/), Leuven, Belgium, September 2025.
 Workshop: *Bayesian Data Analysis*. Participant
 
