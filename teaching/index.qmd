@@ -1,11 +1,10 @@
 ---
-#title: Teaching
+title: Teaching
 excertp: "A list of courses I have lectured"
 #toc-location: right
+toc-location: right
 page-layout: full
 ---
-
-## Teaching
 
 ### 2025
 
