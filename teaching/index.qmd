@@ -9,11 +9,13 @@ page-layout: full
 
 ### 2025
 
-- Seminar on Model Comparison. Summer semester. TU Dortmund.
+-   Applied Bayesian Data Analysis. Winter semester. TU Dortmund.
+
+-   Seminar on Model Comparison. Summer semester. TU Dortmund.
 
 ### 2024
 
--   Applied Bayesian data analysis. Winter semester. TU Dortmund.
+-   Applied Bayesian Data Analysis. Winter semester. TU Dortmund.
 
 -   Data science in context. Winter semester. TU Dortmund.
 
