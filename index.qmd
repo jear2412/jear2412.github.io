@@ -21,7 +21,7 @@ about:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     page-layout: full
     css: styles.css
     icons: [bootstrap, simple-icons]
