@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Scientific Publications – J.E. Aguilar">
@@ -319,24 +348,25 @@ ul.task-list li input[type="checkbox"] {
 <section id="section" class="level3">
 <h3 class="anchored" data-anchor-id="section">2025</h3>
 <ul>
-<li><p><strong>Aguilar J. E</strong> &amp; Bürkner P.-C. (2025) <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full">Generalized Decomposition Priors on R2</a>. <em>Bayesian Analysis</em>. Available for free also on <a href="https://arxiv.org/abs/2401.10180">arXiv</a>. doi:10.1214/25-BA1524</p></li>
-<li><p>Reiser P., <strong>Aguilar J. E</strong>., Guthke A., &amp; Bürkner P.-C. (2025) <a href="https://link.springer.com/article/10.1007/s11222-025-10597-8?utm_source=rct_congratemailt&amp;utm_medium=email&amp;utm_campaign=oa_20250313&amp;utm_content=10.1007/s11222-025-10597-8">Uncertainty quantification and propagation in surrogate-based Bayesian inference</a>. <em>Statistics and Computing</em>. Available for free also on <a href="https://arxiv.org/abs/2312.05153">arXiv</a>. doi:10.1007/s11222-025-10597-8</p></li>
-<li><p>Matabuena M., Ghosal R., <strong>Aguilar J. E</strong>, Wagner R., Merino C.F, Castro J.S, Zipunnikov V., Onnela J.P, Gude F. (2025) <a href="https://www.nature.com/articles/s41598-025-18119-2#Sec15">Glucodensity Functional Profiles Outperform Traditional Continuous Glucose Monitoring Metrics</a>. <em>Nature Scientific Reports</em>. doi: 10.1038/s41598-025-18119-2</p></li>
+<li><p><strong>Aguilar, J. E.</strong>, &amp; Bürkner, P.-C. (2025). <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Generalized-Decomposition-Priors-on-R2/10.1214/25-BA1524.full">Generalized decomposition priors on <span class="math inline">\(R^2\)</span></a>. <em>Bayesian Analysis</em>. Open access on <a href="https://arxiv.org/abs/2401.10180">arXiv</a>. doi:<a href="https://doi.org/10.1214/25-BA1524">10.1214/25-BA1524</a></p></li>
+<li><p>Reiser, P., <strong>Aguilar, J. E.</strong>, Guthke, A., &amp; Bürkner, P.-C. (2025). <a href="https://link.springer.com/article/10.1007/s11222-025-10597-8">Uncertainty quantification and propagation in surrogate-based Bayesian inference</a>. <em>Statistics and Computing</em>. Open access on <a href="https://arxiv.org/abs/2312.05153">arXiv</a>. doi:<a href="https://doi.org/10.1007/s11222-025-10597-8">10.1007/s11222-025-10597-8</a></p></li>
+<li><p>Matabuena, M., Ghosal, R., <strong>Aguilar, J. E.</strong>, Wagner, R., Merino, C. F., Castro, J. S., Zipunnikov, V., Onnela, J. P., &amp; Gude, F. (2025). <a href="https://www.nature.com/articles/s41598-025-18119-2#Sec15">Glucodensity functional profiles outperform traditional continuous glucose monitoring metrics</a>. <em>Nature Scientific Reports</em>. doi:<a href="https://doi.org/10.1038/s41598-025-18119-2">10.1038/s41598-025-18119-2</a></p></li>
 </ul>
 </section>
 <section id="section-1" class="level3">
 <h3 class="anchored" data-anchor-id="section-1">2023</h3>
 <ul>
-<li><strong>Aguilar J. E.</strong> &amp; Bürkner P.-C. (2023). <a href="https://doi.org/10.1214/23-EJS2136">Intuitive Joint Priors for Bayesian Linear Multilevel Models: The R2D2M2 prior</a>. <em>Electronic Journal of Statistics</em>. Available for free also on <a href="https://arxiv.org/abs/2208.07132">arXiv</a>. doi:10.1214/23-EJS2136</li>
+<li><strong>Aguilar, J. E.</strong>, &amp; Bürkner, P.-C. (2023). <a href="https://doi.org/10.1214/23-EJS2136">Intuitive joint priors for Bayesian linear multilevel models: the R2D2M2 prior</a>. <em>Electronic Journal of Statistics</em>. Open access on <a href="https://arxiv.org/abs/2208.07132">arXiv</a>. doi:<a href="https://doi.org/10.1214/23-EJS2136">10.1214/23-EJS2136</a></li>
 </ul>
+<hr>
 </section>
 </section>
 <section id="in-review" class="level2">
-<h2 class="anchored" data-anchor-id="in-review">In Review</h2>
+<h2 class="anchored" data-anchor-id="in-review">In review</h2>
 <ul>
-<li><p><strong>Aguilar J. E.</strong>, Kohns D., Vehtari A.,Bürkner P.-C. (2025). <a href="https://arxiv.org/abs/2507.11833">R2 priors for Grouped Variance Decomposition in High-dimensional Regression</a>. <em>arXiv preprint</em>.</p></li>
-<li><p>Fazio L., Scholz M., <strong>Aguilar J. E.</strong>, Bürkner P.-C. (2025). <a href="https://arxiv.org/abs/2408.06504">Primed Priors for Simulation-Based Validation of Bayesian Models</a>. <em>arXiv preprint</em>.</p></li>
-<li><p><strong>Aguilar J. E.</strong> &amp; Bürkner P.-C. (2025). <a href="https://arxiv.org/abs/2505.10715">Dependency-Aware Shrinkage Priors for High Dimensional Regression</a>. <em>arXiv preprint</em>.</p></li>
+<li><p><strong>Aguilar, J. E.</strong>, Kohns, D., Vehtari, A., &amp; Bürkner, P.-C. (2025). <a href="https://arxiv.org/abs/2507.11833">R² priors for grouped variance decomposition in high-dimensional regression</a>. <em>arXiv preprint</em>.</p></li>
+<li><p>Fazio, L., Scholz, M., <strong>Aguilar, J. E.</strong>, &amp; Bürkner, P.-C. (2025). <a href="https://arxiv.org/abs/2408.06504">Primed priors for simulation-based validation of Bayesian models</a>. <em>arXiv preprint</em>.</p></li>
+<li><p><strong>Aguilar, J. E.</strong>, &amp; Bürkner, P.-C. (2025). <a href="https://arxiv.org/abs/2505.10715">Dependency-aware shrinkage priors for high-dimensional regression</a>. <em>arXiv preprint</em>.</p></li>
 </ul>
 
 
