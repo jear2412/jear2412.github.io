@@ -16,9 +16,9 @@
   {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
-    "title": "Scientific events",
+    "title": "Scientific Events",
     "section": "",
-    "text": "Conference of the DGPs Methods and Evaluation Section 2025, Berlin, Germany, September 2025. Workshop: Bayesian Data Analysis. Instructor."
+    "text": "##Upcoming"
   },
   {
     "objectID": "talks/index.html#past-events",
@@ -68,5 +68,40 @@
     "title": "Teaching",
     "section": "",
     "text": "Applied Bayesian Data Analysis. Winter semester. TU Dortmund.\nSeminar on Model Comparison. Summer semester. TU Dortmund.\n\n\n\n\n\nApplied Bayesian Data Analysis. Winter semester. TU Dortmund.\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nData science in context. Winter semester. TU Dortmund.\nIntensive course in statistics. Summer semester. TU Dortmund.\n\n\n\n\n\nBayesian Statistics and Probabilistic Machine Learning. Summer semester. University of Stuttgart.\n\n\n\n\n\nEpidemiological Models. Summer semester. Center for Research in Mathematics CIMAT.\nStatistical Models. Summer semester. Center for Research in Mathematics CIMAT."
+  },
+  {
+    "objectID": "talks/index.html#upcoming",
+    "href": "talks/index.html#upcoming",
+    "title": "Scientific Events",
+    "section": "",
+    "text": "Conference of the DGPs Methods and Evaluation Section 2025, Berlin, Germany – Workshop: Bayesian Data Analysis (Instructor)"
+  },
+  {
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Scientific Events",
+    "section": "2025",
+    "text": "2025\n\nConference of the DGPs Methods and Evaluation Section 2025, Berlin, Germany – Workshop: Bayesian Data Analysis (Instructor)\nAlumni-Verein Dortmunder Statistikerinnen und Statistiker e.V. and Faculty of Statistics, Dortmund, Germany – Bayesian Data Analysis Workshop with brms (Instructors: Javier Aguilar, Luna Fazio)\n\nSummer School on Advanced Bayesian Methods, Leuven, Belgium – Participant\n\nValència International Bayesian Analysis Summer School (VIBASS 8), València, Spain – Workshop: Bayesian Data Analysis (Instructor)\n\n7th Joint Statistical Meeting of the Deutsche Arbeitsgemeinschaft Statistik (DAGStat 2025), Berlin, Germany\n\nContributed Talk: Generalized Decomposition Priors on \\(R^2\\)\n\nTutorial: Bayesian Data Analysis Workshop (with Luna Fazio)\n\n\nGerman Probability and Statistics Days (GPSD 2025), Dresden, Germany – Contributed Talk: Dependency-Aware Shrinkage Priors"
+  },
+  {
+    "objectID": "talks/index.html#section-1",
+    "href": "talks/index.html#section-1",
+    "title": "Scientific Events",
+    "section": "2024",
+    "text": "2024\n\nInternational Conference on Statistics and Data Science (ICSDS 2024), Nice, France – Contributed Talk: Generalized Decomposition Priors on \\(R^2\\)\n\nBayesian Methods for the Social Sciences II, Amsterdam, Netherlands – Poster: Generalized Decomposition Priors on \\(R^2\\)\n\nISBA World Meeting 2024, Venice, Italy – Poster: Generalized Decomposition Priors on \\(R^2\\) (Accepted, not attended)\n\nBernoulli–IMS 11th World Congress in Probability and Statistics 2024, Bochum, Germany – Contributed Talk: Generalized Decomposition Priors on \\(R^2\\) (Accepted, not attended)\n\nVisiting Scholar, Department of Computer Science, Aalto University, Helsinki, Finland – Project: Grouped \\(R^2\\) Decomposition Priors (with Aki Vehtari and David Kohns)"
+  },
+  {
+    "objectID": "talks/index.html#section-2",
+    "href": "talks/index.html#section-2",
+    "title": "Scientific Events",
+    "section": "2023",
+    "text": "2023\n\nInternational Conference on Multilevel Analysis 2024, Utrecht, Netherlands – Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models\n\nNordStat 2023, Gothenburg, Sweden – Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models\n\nBayesComp 2023, Levi, Finland – Poster: Intuitive Joint Priors for Bayesian Multilevel Models\n\nGerman Probability and Statistics Days (GPSD 2023), Essen, Germany – Contributed Talk: Intuitive Joint Priors for Bayesian Multilevel Models"
+  },
+  {
+    "objectID": "talks/index.html#section-3",
+    "href": "talks/index.html#section-3",
+    "title": "Scientific Events",
+    "section": "2022",
+    "text": "2022\n\nInternational Conference on Statistics and Data Science (ICSDS 2022), Florence, Italy – Invited Talk: Intuitive Joint Priors for Bayesian Multilevel Models\n(Recipient of the IMS Student Travel Award)"
   }
 ]
