@@ -24,7 +24,10 @@ format: html
 
 ## In review
 
-- **Aguilar, J. E.**, Kohns, D., Vehtari, A., & Bürkner, P.-C. (2025). [R² priors for grouped variance decomposition in high-dimensional regression](https://arxiv.org/abs/2507.11833). *arXiv preprint*.
+- Mukherjee, S., **Aguilar, J. E.**, Zago M., Classen M., & Bürkner, P.-C. (2025). [Latent variable estimation with composite Hilbert space Gaussian processes](https://arxiv.org/abs/2510.25371). *arXiv preprint*.
+
+
+- **Aguilar, J. E.**, Kohns, D., Vehtari, A., & Bürkner, P.-C. (2025). [$R^2$ priors for grouped variance decomposition in high-dimensional regression](https://arxiv.org/abs/2507.11833). *arXiv preprint*.
 
 - Fazio, L., Scholz, M., **Aguilar, J. E.**, & Bürkner, P.-C. (2025). [Primed priors for simulation-based validation of Bayesian models](https://arxiv.org/abs/2408.06504). *arXiv preprint*.
 

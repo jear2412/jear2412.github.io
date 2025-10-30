@@ -11,7 +11,7 @@
     "href": "publications/index.html#in-review",
     "title": "Scientific Publications",
     "section": "In review",
-    "text": "In review\n\nAguilar, J. E., Kohns, D., Vehtari, A., & Bürkner, P.-C. (2025). R² priors for grouped variance decomposition in high-dimensional regression. arXiv preprint.\nFazio, L., Scholz, M., Aguilar, J. E., & Bürkner, P.-C. (2025). Primed priors for simulation-based validation of Bayesian models. arXiv preprint.\nAguilar, J. E., & Bürkner, P.-C. (2025). Dependency-aware shrinkage priors for high-dimensional regression. arXiv preprint."
+    "text": "In review\n\nMukherjee, S., Aguilar, J. E., Zago M., Classen M., & Bürkner, P.-C. (2025). Latent variable estimation with composite Hilbert space Gaussian processes. arXiv preprint.\nAguilar, J. E., Kohns, D., Vehtari, A., & Bürkner, P.-C. (2025). \\(R^2\\) priors for grouped variance decomposition in high-dimensional regression. arXiv preprint.\nFazio, L., Scholz, M., Aguilar, J. E., & Bürkner, P.-C. (2025). Primed priors for simulation-based validation of Bayesian models. arXiv preprint.\nAguilar, J. E., & Bürkner, P.-C. (2025). Dependency-aware shrinkage priors for high-dimensional regression. arXiv preprint."
   },
   {
     "objectID": "talks/index.html",
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site"
   },
   {
     "objectID": "teaching/index.html",
