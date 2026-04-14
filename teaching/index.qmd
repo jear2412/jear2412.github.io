@@ -5,6 +5,8 @@ toc-location: right
 page-layout: full
 ---
 
+Courses and seminars I have taught at a university level
+
 ### 2025
 
 - Applied Bayesian Data Analysis – Winter semester, TU Dortmund  
