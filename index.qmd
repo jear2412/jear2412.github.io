@@ -4,7 +4,7 @@ subtitle: "Postdoctoral Researcher in Bayesian Statistics "
 from: markdown+emoji
 about:
   template: trestles
-  image: graphics/javier-aguilar-small.jpeg
+  image: graphics/javier-aguilar.jpeg
   image-width: 15em
   image-shape: round
 
