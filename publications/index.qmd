@@ -3,7 +3,6 @@ title: Scientific Publications
 excerpt: "Peer-reviewed publications and preprints."
 toc-location: right
 page-layout: full
-format: html
 ---
 
 ## Accepted
