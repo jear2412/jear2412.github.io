@@ -29,7 +29,7 @@ aliases:
   - /about
 ---
 
-::: {#about-heading}
+
 
 
 I am a postdoctoral researcher at the [Research Center Trustworthy Data Science and Security](https://rc-trust.ai) working in the Causality group with [Alexander Marx](https://www.a-marx.com). I completed my doctoral degree in Statistics 
@@ -42,4 +42,3 @@ I teach and organize workshops on Bayesian data analysis and the use of [`brms`]
 Feel free to [get in touch](mailto:javier.aguilarr@icloud.com) if you'd like to discuss ideas, potential projects, or just exchange perspectives on Bayesian methods.
 
 
-:::
