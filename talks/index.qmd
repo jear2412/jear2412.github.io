@@ -8,7 +8,7 @@ page-layout: full
 <summary>**Upcoming**</summary>
 
 
--   [Nordstat 2026: 30th Nordic Conference in Mathematical Statistics](https://www.helsinki.fi/en/conferences/nordstat-2026), Nagoya, Japan – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
+-   [Nordstat 2026: 30th Nordic Conference in Mathematical Statistics](https://www.helsinki.fi/en/conferences/nordstat-2026), Helsinki, Finland – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
 -   [StanCon 2026](https://www.stancon2026.org/registration/), Uppsala, Sweden – *Contributed Talk:* *Intuitive $R^2$-Based Prior Specification for High-Dimensional Models*
 -   [ISBA World Meeting 2026](https://isba2026.github.io), Nagoya, Japan – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
 
