@@ -62,7 +62,7 @@ format:
     css: styles.css
     smooth-scroll: true
     link-external-newwindow: true
-    include-after-body: translate.html
+    #include-after-body: translate.html
 #editor: visual
 
 
