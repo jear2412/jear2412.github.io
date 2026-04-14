@@ -139,14 +139,21 @@ document.addEventListener('DOMContentLoaded', function() {
   btn.innerText = '🌐 ES';
   btn.style.cssText = 'position:fixed; bottom:20px; right:20px; z-index:9999; padding:8px 14px; border-radius:20px; border:1px solid #ccc; background:#fff; cursor:pointer; font-size:13px;';
   document.body.appendChild(btn);
+
   btn.addEventListener('click', function() {
+    tryTranslate(0);
+  });
+
+  function tryTranslate(attempts) {
     var select = document.querySelector('.goog-te-combo');
     if (select) {
       select.value = select.value === 'es' ? 'en' : 'es';
       select.dispatchEvent(new Event('change'));
       btn.innerText = btn.innerText === '🌐 ES' ? '🌐 EN' : '🌐 ES';
+    } else if (attempts < 10) {
+      setTimeout(function() { tryTranslate(attempts + 1); }, 500);
     }
-  });
+  }
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
