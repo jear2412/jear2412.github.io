@@ -5,21 +5,25 @@ toc-location: right
 page-layout: full
 ---
 
-A list of scientific events in which I have participated.
+<details open>
+<summary>**Upcoming**</summary>
 
-## Upcoming
+
+
 
 -   [Nordstat 2026: 30th Nordic Conference in Mathematical Statistics](https://www.helsinki.fi/en/conferences/nordstat-2026), Nagoya, Japan – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
 -   [StanCon 2026](https://www.stancon2026.org/registration/), Uppsala, Sweden – *Contributed Talk:* *Intuitive $R^2$-Based Prior Specification for High-Dimensional Models*
 -   [ISBA World Meeting 2026](https://isba2026.github.io), Nagoya, Japan – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
 
 
+</details>
 
 ------------------------------------------------------------------------
 
 
+<details open>
+<summary>**Talks & Conferences**</summary>
 
-## Talks & Conferences
 
 A selection of talks and conferences in which I have participated.
 
@@ -46,17 +50,20 @@ A selection of talks and conferences in which I have participated.
 
 ### 2022
 
--   [International Conference on Statistics and Data Science (ICSDS 2022)](https://sites.google.com/view/icsds2022), Florence, Italy – *Invited Talk:* *Intuitive Joint Priors for Bayesian Multilevel Models*\
-    *(Recipient of the [IMS Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/))*
+-   [International Conference on Statistics and Data Science (ICSDS 2022)](https://sites.google.com/view/icsds2022), Florence, Italy – *Invited Talk:* *Intuitive Joint Priors for Bayesian Multilevel Models(Recipient of the [IMS Student Travel Award](https://imstat.org/2022/12/06/2022-icsds-travel-award-recipients/))*
 
--  [Computational methods for unifying multiple statistical analyses (Fusion)](https://conferences.cirm-math.fr/2635.html), Marseille, France. *Participant*
+-  [Computational methods for unifying multiple statistical analyses (Fusion)](https://conferences.cirm-math.fr/2635.html), CIRM, Marseille, France. *Participant*
 
+</details>
 
 ------------------------------------------------------------------------
 
-## Workshops & Tutorials
+
+<details open>
+<summary>**Workshops & Tutorials**</summary>
 
 A selection of workshops and tutorials I have organized and taught.
+
 
 
 ### 2026
@@ -75,4 +82,7 @@ A selection of workshops and tutorials I have organized and taught.
 
 -   Freie Universität Berlin, Berlin, Germany – *Workshop: Bayesian Data Analysis Workshop with `brms`* (Instructor)
 -   Charité – Universitätsmedizin Berlin, Berlin, Germany – *Workshop: Bayesian Data Analysis Workshop with `brms`* (Instructor with [Maximilian Scholz](https://scholzmx.com))
+
+</details>
+
 
