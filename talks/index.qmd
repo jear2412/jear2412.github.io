@@ -1,14 +1,11 @@
 ---
 title: Scientific Events
 excerpt: "Talks, workshops, and collaborations in which I have participated."
-toc-location: right
 page-layout: full
 ---
 
 <details open>
 <summary>**Upcoming**</summary>
-
-
 
 
 -   [Nordstat 2026: 30th Nordic Conference in Mathematical Statistics](https://www.helsinki.fi/en/conferences/nordstat-2026), Nagoya, Japan – *Contributed Talk:* $R^2$ *Priors for Grouped Variance Decomposition in High-Dimensional Regression*
